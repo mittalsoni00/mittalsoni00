@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Springboot, J2EE, Hibernate, Kafka**
 
-- 👨‍💻 All of my projects are available at [will update later..stay connected](will update later..stay connected)
+- 👨‍💻 All of my projects are available on this github profile.
 
 - 💬 Ask me about **Programming Language JAVA, AWS Cloud, JAVA Fullstack**
 
